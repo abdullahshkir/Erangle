@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Monitor",
+  "description": "Company PC monitoring agent by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
